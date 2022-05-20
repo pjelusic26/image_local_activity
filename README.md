@@ -5,4 +5,5 @@ The method takes a CMYK image and extracts its K channel. Then, it 'walks' throu
 
 Further reading:
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4021136
+
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8076800
